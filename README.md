@@ -24,7 +24,7 @@ As result, you should see the program pritout.
 | sozialversicherung-av           |    73.9 |  OK  |    73.9 |
 | sozialversicherung-pv           |   56.42 |  OK  |   56.42 |
 | freibetrag-kinderfreibetrag     |  3714.0 |  !   |       0 |
-| freibetrag-versorgungspauschale | 7442.41 |  !   |       0 |
+| freibetrag-vorsorgepauschale    | 7442.41 |  !   |       0 |
 | steuer-soli                     |   51.53 |  !   |    42.2 |
 | steuer-lohnsteuer               |  936.91 |  !   | 1000.75 |
 | netto                           |  2986.8 |  !   | 2804.49 |
