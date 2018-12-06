@@ -170,7 +170,7 @@ class Lohnabrechnung_Kl1:
             self.add_row("sozialversicherung-pv", abzug_pflege)
 
             self.add_row("freibetrag-kinderfreibetrag", kinderfreibetrag)
-            self.add_row("freibetrag-versorgungspauschale", vspsch)
+            self.add_row("freibetrag-vorsorgepauschale", vspsch)
 
             self.add_row("steuer-soli", soli)
             self.add_row("steuer-lohnsteuer", lohnsteuer)

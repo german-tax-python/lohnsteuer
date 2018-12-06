@@ -19,5 +19,5 @@ steuer:
   soli: 42.20
   kirchensteuer: 61.38
 freibetrag:
-  versorgungspauschale: 0
+  vorsorgepauschale: 0
   kinderfreibetrag: 0
