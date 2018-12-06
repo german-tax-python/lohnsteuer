@@ -1,0 +1,23 @@
+meta:
+  source: https://www.lohnexperte.de/files/root-pdfs/pdf/Muster.pdf
+  dataid: claudia-mustefrau-freiwillig
+  year: 2018
+  steuerklasse: 1
+  children: 1
+netto: 2804.49
+brutto:
+  nominal: 5000
+  addon: 26.59
+  svbrutto: 4926.59
+sozialversicherung:
+  kv: 389.40
+  rv: 458.17
+  av: 73.90
+  pv: 56.42
+steuer:
+  lohnsteuer: 1000.75
+  soli: 42.20
+  kirchensteuer: 61.38
+freibetrag:
+  versorgungspauschale: 0
+  kinderfreibetrag: 0

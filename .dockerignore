@@ -1,0 +1,4 @@
+**/*.pyc
+*.pyc
+.pytest_cache/*
+Dockerfile
